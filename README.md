@@ -83,3 +83,5 @@ The seed script writes DEMO-labelled rows to `project_templates` and `quiz_cache
 - This is a simulation-only scaffold.
 - Seed data must be labelled `DEMO`.
 - Secrets such as `SUPABASE_SERVICE_ROLE_KEY` and `GROQ_API_KEY` are server-only and must never be exposed in client components.
+
+Hello there! 👋 If you’ve made it this far, you should definitely check out the live project right here: 🚀 https://aiedtechgrowth-engine.vercel.app
